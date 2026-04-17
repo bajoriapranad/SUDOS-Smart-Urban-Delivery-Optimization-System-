@@ -53,14 +53,14 @@ A fast and simple approach where the agent always goes to the nearest unvisited 
 ### 3. DP-based TSP (Held-Karp)
 
 Finds the **optimal route** using dynamic programming.
-✔ Best possible solution
-✖ Only works for small inputs (n ≤ 15)
+ Best possible solution
+ Only works for small inputs (n ≤ 15)
 
 ### 4. Nearest Insertion Heuristic
 
 Builds a route step by step by inserting the closest node in the best position.
-✔ Good balance between speed and accuracy
-✔ Works well for larger inputs
+ Good balance between speed and accuracy
+ Works well for larger inputs
 
 
 ## How It Works
