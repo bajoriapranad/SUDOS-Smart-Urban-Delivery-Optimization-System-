@@ -15,7 +15,7 @@ This project compares multiple algorithmic approaches to understand the trade-of
   [https://youtu.be/UxvUcASbyY8?si=k9QF8z_6SqrkA5u2](https://youtu.be/UxvUcASbyY8?si=k9QF8z_6SqrkA5u2)
 
 * **Project PPT**
-  [https://docs.google.com/presentation/d/1wTB1z1gZAgw_M_Gt3TrazlxXvqLPwWiI/edit?slide=id.p10#slide=id.p10](https://docs.google.com/presentation/d/1wTB1z1gZAgw_M_Gt3TrazlxXvqLPwWiI/edit?slide=id.p10#slide=id.p10)
+  [https://docs.google.com/presentation/d/1wTB1z1gZAgw_M_Gt3TrazlxXvqLPwWiI/edit?slide=id.p10#slide=id.p10](https://docs.google.com/presentation/d/1wTB1z1gZAgw_M_Gt3TrazlxXvqLPwWiI/edit?slide=id.p10#slide=id.p1)
 
 
 ##  Features
