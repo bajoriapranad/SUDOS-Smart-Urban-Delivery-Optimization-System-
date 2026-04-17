@@ -47,8 +47,8 @@ This helps all other algorithms work faster.
 ### 2. Greedy Nearest Neighbour
 
 A fast and simple approach where the agent always goes to the nearest unvisited location.
-✔ Very fast
-✖ Not always optimal
+ Very fast
+ Not always optimal
 
 ### 3. DP-based TSP (Held-Karp)
 
